@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/vip/static/css/main.edc5d5ae.css",
+    "main.js": "/vip/static/js/main.2511dfdd.js",
+    "static/js/787.260800bf.chunk.js": "/vip/static/js/787.260800bf.chunk.js",
+    "static/media/football.gif": "/vip/static/media/football.96ff9dbc554d1c46804a.gif",
+    "static/media/yoga.gif": "/vip/static/media/yoga.546d7fe1c97d52d1b45d.gif",
+    "static/media/fancy.jpg": "/vip/static/media/fancy.e39220a7bec5c9a6a7f9.jpg",
+    "static/media/bus2.gif": "/vip/static/media/bus2.a1c30d627b7d46be509b.gif",
+    "static/media/teacher.gif": "/vip/static/media/teacher.fb28e603de2a9448a797.gif",
+    "static/media/kunaldogne-removebg-preview.png": "/vip/static/media/kunaldogne-removebg-preview.5e687ea252d227994b5f.png",
+    "static/media/dance.jpg": "/vip/static/media/dance.79143061a43b23043b99.jpg",
+    "static/media/camera.gif": "/vip/static/media/camera.b7e7e3b273928775823f.gif",
+    "static/media/computer.gif": "/vip/static/media/computer.fca67e190e00fac1efeb.gif",
+    "static/media/main-back-img2.jpg": "/vip/static/media/main-back-img2.b8d6bc72bd1d5746ce19.jpg",
+    "static/media/vip-logo.png": "/vip/static/media/vip-logo.2cb02e13de0361472b45.png",
+    "static/media/dogneji.jpg": "/vip/static/media/dogneji.f7186cfdb57000e23a52.jpg",
+    "static/media/main-back-img3jpeg.jpeg": "/vip/static/media/main-back-img3jpeg.935ba8e659e7964cc53d.jpeg",
+    "static/media/main-back-img.jpeg": "/vip/static/media/main-back-img.824382376c21c4c6bccb.jpeg",
+    "static/media/sports.jpeg": "/vip/static/media/sports.bfb9ae119c011d5ed455.jpeg",
+    "index.html": "/vip/index.html",
+    "main.edc5d5ae.css.map": "/vip/static/css/main.edc5d5ae.css.map",
+    "main.2511dfdd.js.map": "/vip/static/js/main.2511dfdd.js.map",
+    "787.260800bf.chunk.js.map": "/vip/static/js/787.260800bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edc5d5ae.css",
+    "static/js/main.2511dfdd.js"
+  ]
+}
